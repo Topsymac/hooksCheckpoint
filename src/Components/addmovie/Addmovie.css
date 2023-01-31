@@ -1,0 +1,10 @@
+.moviesearch {
+    background-color: rgb(245, 245, 245);
+    width: auto;
+    margin: 50px;
+    padding: 20px;
+}
+
+.moviesearch div {
+    margin: 20px;
+}
